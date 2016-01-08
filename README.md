@@ -1,1 +1,1 @@
-# number-float-validation-for-angular
+# Number And Float Validation by Using Angular
