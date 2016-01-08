@@ -1,3 +1,4 @@
+// error effects
 // <style media="screen">
 //     .input_error{
 //         border-color:red !important;
@@ -5,8 +6,9 @@
 //     }
 // </style>
 
-
-// <input type="text" class="form-control" id="avgPrice" ng-model="basicInfo.averagePrice" valid-number>
+//HTML
+// <input type="text" class="form-control" ng-model="number" valid-number>
+// <input type="text" class="form-control" ng-model="fload" valid-fload>
 
 
 app.directive('validNumber', function($filter){
